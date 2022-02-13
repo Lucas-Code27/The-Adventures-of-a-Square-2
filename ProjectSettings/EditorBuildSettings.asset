@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 6818791cd13da4144b3bdfadef8595b5
+  - enabled: 1
+    path: Assets/Scenes/Classic Mode/Classic Mode.unity
+    guid: b4777fd069289ee408120b8596bb542b
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: 6e23620cc84de394cb15a13a35bb5572
+  - enabled: 1
+    path: Assets/Scenes/Classic Mode/Level 1.unity
+    guid: c8746503dafbc6c4e90c9ee58f278665
+  - enabled: 1
+    path: Assets/Scenes/Classic Mode/Level 2.unity
+    guid: 03cb4902639bd6248806f210bfe15971
+  - enabled: 1
+    path: Assets/Scenes/Classic Mode/Level 3.unity
+    guid: afca997da4c15524daa0a5dbcb3500d7
+  - enabled: 1
+    path: Assets/Scenes/Classic Mode/Level 4.unity
+    guid: de787178391e1574e9ea4829877d6449
+  - enabled: 1
+    path: Assets/Scenes/Classic Mode/Level 5.unity
+    guid: 6bead86a65e781441820ea8620c8f603
+  - enabled: 1
+    path: Assets/Scenes/Classic Mode/Level 6.unity
+    guid: b0a8b5f1c582a6548be4772995cc9d54
+  - enabled: 1
+    path: Assets/Scenes/Classic Mode/Level 7.unity
+    guid: 64b6a8133a409d24587e0e0d83a5071a
+  - enabled: 1
+    path: Assets/Scenes/Classic Mode/Level 8.unity
+    guid: 3ef395071a179f9488d687b74f8f5845
+  - enabled: 1
+    path: Assets/Scenes/Classic Mode/Level 9.unity
+    guid: aedd74bace5acab4c91e6ca351f615a1
+  - enabled: 1
+    path: Assets/Scenes/Classic Mode/Level 10.unity
+    guid: 084135decf63ea74da3342954cae72cb
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 041dfa680ba3edb4393ab2b672b23fb9,
+      type: 2}
